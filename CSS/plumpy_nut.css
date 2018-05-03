@@ -2,7 +2,18 @@
     position: absolute;
     background-color: #772A53;
     color: white;
-    width: 2000px;
+    width: 1250px;
+    height: 125px;
+    text-align: center;
+    font-size: 93px;
+    font-style: italic;
+}
+
+#about_me_header {
+        position: absolute;
+    background-color: #772A53;
+    color: white;
+    width: 1250px;
     height: 125px;
     text-align: center;
     font-size: 93px;
