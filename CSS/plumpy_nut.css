@@ -1,3 +1,7 @@
+#Body {
+    background-color: lightslategray;
+}
+
 #Resume {
     position: absolute;
     background-color: #772A53;
@@ -8,8 +12,9 @@
     font-size: 93px;
     font-style: italic;
 }
+
 #about_me_header {
-    position: absolute;
+    position: relative;
     background-color: #772A53;
     color: white;
     width: 1250px;
@@ -17,6 +22,7 @@
     text-align: center;
     font-size: 93px;
     font-style: italic;
+    top: -100px;
 }
 #Graphic_Design {
     position: absolute;
@@ -29,7 +35,7 @@
     font-style: italic;
 }
 #Writing {
-    position: absolute;
+    position: relative;
     background-color: #772A53;
     color: white;
     width: 1250px;
@@ -37,4 +43,12 @@
     text-align: center;
     font-size: 93px;
     font-style: italic;
+    top: 1000px;
 }
+#about-me-content {
+    position: relative;
+    font-family: sans-serif;
+    top: -100px;
+}
+
+#
