@@ -13,8 +13,13 @@
     font-size: 93px;
     font-style: italic;
 }
+#Resume:hover {
+    position: relative;
+    background-color: black;
+    -webkit-transition: background-color 2s;
+}
 
-#about_me_header {
+#about_me {
     position: relative;
     background-color: #772A53;
     color: white;
@@ -24,23 +29,30 @@
     font-size: 93px;
     font-style: italic;
     top: -100px;
+
 }
+#about_me:hover {
+    position: relative;
+    background-color: black;
+    -webkit-transition: background-color 2s;
+}
+
 #about-me-content {
     position: relative;
     font-family: sans-serif;
-    top: -150px;
+    top: -75px;
 }
 
 #Skills {
     position: relative;
     color: white;
-    top: -100px;
+    top: -25px;
     font-size: 25px;
     font-family: sans-serif;
 }
 #skills-content {
     position: relative;
-    top: -100px;
+    top: -25px;
     font-family: sans-serif;
     font-size: 15px;
 }
@@ -55,6 +67,11 @@
     font-size: 93px;
     font-style: italic;
     top: 150px;
+}
+#Graphic_Design:hover {
+    position: relative;
+    background-color: black;
+    -webkit-transition: background-color 2s;
 }
 #graphic-design-content1 {
     position: relative;
@@ -86,6 +103,11 @@
     font-size: 93px;
     font-style: italic;
     top: 450px;
+}
+#Writing:hover {
+    position: relative;
+    background-color: black;
+    -webkit-transition: background-color 2s;
 }
 #mcrib {
     position: relative;
