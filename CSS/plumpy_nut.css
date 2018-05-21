@@ -91,14 +91,22 @@
 }
 #graphic-ascension1:hover {
     position: relative;
-    width: 250px;
+    width: 600px;
+    height: 850px;
     -webkit-transition: width 2s;
+    -webkit-transition: height 2s;
 }
 
 #graphic-ascension2 {
     position: relative;
     top: 300px;
 }
+#graphic-ascension2:hover {
+    position: relative;
+    width: 950px;
+    -webkit-transition: width 2s;
+}
+
 #Writing {
     position: relative;
     background-color: #772A53;
