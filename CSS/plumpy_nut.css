@@ -87,11 +87,17 @@
 }
 #graphic-ascension1 {
     position: relative;
-    top: 150px
+    top: 150px;
 }
+#graphic-ascension1:hover {
+    position: relative;
+    width: 250px;
+    -webkit-transition: width 2s;
+}
+
 #graphic-ascension2 {
     position: relative;
-    top: 300px
+    top: 300px;
 }
 #Writing {
     position: relative;
