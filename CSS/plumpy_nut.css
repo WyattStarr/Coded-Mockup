@@ -93,8 +93,8 @@
     position: relative;
     width: 600px;
     height: 850px;
-    -webkit-transition: width 2s;
-    -webkit-transition: height 2s;
+    -webkit-transition: width 1.5s;
+    -webkit-transition: height 1.5s;
 }
 
 #graphic-ascension2 {
@@ -104,7 +104,7 @@
 #graphic-ascension2:hover {
     position: relative;
     width: 950px;
-    -webkit-transition: width 2s;
+    -webkit-transition: width 1.5s;
 }
 
 #Writing {
