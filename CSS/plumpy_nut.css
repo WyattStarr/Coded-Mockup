@@ -1,6 +1,7 @@
 #Body {
     background-color: lightslategray;
 }
+
 #Resume {
     position: relative;
     top: -150px;
@@ -146,6 +147,7 @@
     position: relative;
     font-family: sans-serif;
     font-size: 15px;
+
 }
 
 #Awards {
